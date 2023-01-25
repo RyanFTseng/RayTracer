@@ -1,0 +1,245 @@
+﻿  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Renderer2\src\ofApp.cpp(106,14): warning C4101: 'rayDirection': unreferenced local variable
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(215,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(194): message : while compiling class template member function 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(486): message : see reference to function template instantiation 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(491): message : see reference to class template instantiation 'ofxColorPicker_<unsigned char>' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(216,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(225,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(226,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(245,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(236): message : while compiling class template member function 'ofMesh ofxColorPicker_<unsigned char>::getColorWheel(void)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(485): message : see reference to function template instantiation 'ofMesh ofxColorPicker_<unsigned char>::getColorWheel(void)' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(246,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\graphics\ofPolyline.inl(409,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\graphics\ofPolyline.inl(331): message : while compiling class template member function 'void ofPolyline_<ofDefaultVertexType>::arc(const T &,float,float,float,float,bool,int)'
+          with
+          [
+              T=ofDefaultVertexType
+          ] (compiling source file ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(208): message : see reference to function template instantiation 'void ofPolyline_<ofDefaultVertexType>::arc(const T &,float,float,float,float,bool,int)' being compiled
+          with
+          [
+              T=ofDefaultVertexType
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(194): message : while compiling class template member function 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp(486): message : see reference to function template instantiation 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)' being compiled
+  ofxInputField.cpp
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxLabel.cpp
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxPanel.cpp
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(370,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(352): message : while compiling class template member function 'bool ofxInputField<float>::mousePressed(ofMouseEventArgs &)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(805): message : see reference to class template instantiation 'ofxInputField<float>' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(531,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(472): message : while compiling class template member function 'bool ofxInputField<float>::keyPressed(ofKeyEventArgs &)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(558,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(560,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(776,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(773): message : while compiling class template member function 'void ofxInputField<float>::valueChanged(Type &)'
+          with
+          [
+              Type=float
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(148): message : see reference to function template instantiation 'void ofxInputField<float>::valueChanged(Type &)' being compiled
+          with
+          [
+              Type=float
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxSlider.cpp
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+  ofxSliderGroup.cpp
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxToggle.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(26,1): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(11): message : while compiling class template member function 'ofxVecSlider_<ofDefaultVec3> *ofxVecSlider_<ofDefaultVec3>::setup(ofParameter<ofDefaultVec3>,float,float)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(7): message : see reference to function template instantiation 'ofxVecSlider_<ofDefaultVec3> *ofxVecSlider_<ofDefaultVec3>::setup(ofParameter<ofDefaultVec3>,float,float)' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(69): message : see reference to class template instantiation 'ofxVecSlider_<ofDefaultVec3>' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(59,1): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(54): message : while compiling class template member function 'void ofxVecSlider_<ofDefaultVec3>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofDefaultVec3
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(19): message : see reference to function template instantiation 'void ofxVecSlider_<ofDefaultVec3>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofDefaultVec3
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(26,1): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(11): message : while compiling class template member function 'ofxVecSlider_<ofDefaultVec2> *ofxVecSlider_<ofDefaultVec2>::setup(ofParameter<ofDefaultVec2>,float,float)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(7): message : see reference to function template instantiation 'ofxVecSlider_<ofDefaultVec2> *ofxVecSlider_<ofDefaultVec2>::setup(ofParameter<ofDefaultVec2>,float,float)' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(64): message : see reference to class template instantiation 'ofxVecSlider_<ofDefaultVec2>' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(59,1): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(54): message : while compiling class template member function 'void ofxVecSlider_<ofDefaultVec2>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofDefaultVec2
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(19): message : see reference to function template instantiation 'void ofxVecSlider_<ofDefaultVec2>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofDefaultVec2
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(26,1): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(11): message : while compiling class template member function 'ofxVecSlider_<ofDefaultVec4> *ofxVecSlider_<ofDefaultVec4>::setup(ofParameter<ofDefaultVec4>,float,float)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(7): message : see reference to function template instantiation 'ofxVecSlider_<ofDefaultVec4> *ofxVecSlider_<ofDefaultVec4>::setup(ofParameter<ofDefaultVec4>,float,float)' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(74): message : see reference to class template instantiation 'ofxVecSlider_<ofDefaultVec4>' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(59,1): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(54): message : while compiling class template member function 'void ofxVecSlider_<ofDefaultVec4>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofDefaultVec4
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(19): message : see reference to function template instantiation 'void ofxVecSlider_<ofDefaultVec4>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofDefaultVec4
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(26,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(11): message : while compiling class template member function 'ofxVecSlider_<ofVec2f> *ofxVecSlider_<ofVec2f>::setup(ofParameter<ofVec2f>,float,float)'
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(7): message : see reference to function template instantiation 'ofxVecSlider_<ofVec2f> *ofxVecSlider_<ofVec2f>::setup(ofParameter<ofVec2f>,float,float)' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(79): message : see reference to class template instantiation 'ofxVecSlider_<ofVec2f>' being compiled
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(59,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(54): message : while compiling class template member function 'void ofxVecSlider_<ofVec2f>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofVec2f
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp(19): message : see reference to function template instantiation 'void ofxVecSlider_<ofVec2f>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofVec2f
+          ]
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+     Creating library bin\Renderer2.lib and object bin\Renderer2.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Renderer2.vcxproj -> C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Renderer2\bin\Renderer2.exe
+  
+  	                   2	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Renderer2\bin\FreeImage.dll
+  
+  	                   1	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Renderer2\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Renderer2\bin\fmodL.dll
